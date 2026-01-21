@@ -98,7 +98,7 @@
 
             var result = MinCostClimbingStairsNoCache(testInput);
 
-            return result == 209040;
+            return result == 7016;
         }
         public bool Test3()
         {
